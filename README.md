@@ -2,6 +2,6 @@
 
 Hello! Welcome, The Livro de Receitas HuE Hue
 
-Strogonoff
+- Strogonoff
 
-Pavê
+- Pavê
